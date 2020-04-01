@@ -11,11 +11,11 @@ return lyric;
 function crazy() {
   // fix the code in here:
   var thisIsCrazy = function (){
-  return thisIsCrazy(){
     console.log("hey!!!");
   }
 }
-}
+thisIsCrazy();
+
 
 function sayMyName() {
   // fix the code in here:
