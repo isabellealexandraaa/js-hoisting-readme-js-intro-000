@@ -1,5 +1,6 @@
 function callMe() {
-  console.log('maybe');
+  var answer = 'maybe';
+  console.log(answer);
 }
 callMe();
 
