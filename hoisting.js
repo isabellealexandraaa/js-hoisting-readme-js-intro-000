@@ -1,7 +1,7 @@
 function callMe() {
-  console.log("maybe");
+  console.log('maybe');
 }
-
+callMe();
 
 function crazy() {
   // fix the code in here:
