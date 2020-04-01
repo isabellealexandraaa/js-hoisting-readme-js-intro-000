@@ -11,9 +11,8 @@ return lyric;
 function crazy() {
   // fix the code in here:
   var thisIsCrazy = function (){
-  thisIsCrazy();
+  return thisIsCrazy();
     console.log("hey!!!");
-    return thisIsCrazy;
   }
 }
 
